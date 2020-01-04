@@ -2,23 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sdisk.github.io/lambda%E7%AE%80%E4%BB%8B.html</loc>
+    <loc>https://sdisk.github.io/galleries/2018/index.html</loc>
     
-    <lastmod>2020-01-02T14:51:32.719Z</lastmod>
+    <lastmod>2020-01-04T14:30:06.570Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sdisk.github.io/galleries/2019/index.html</loc>
+    
+    <lastmod>2020-01-04T14:29:57.264Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sdisk.github.io/galleries/index.html</loc>
+    
+    <lastmod>2020-01-04T14:29:34.646Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sdisk.github.io/about/index.html</loc>
+    
+    <lastmod>2020-01-04T07:24:56.416Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://sdisk.github.io/categories/index.html</loc>
     
-    <lastmod>2020-01-01T11:23:05.184Z</lastmod>
+    <lastmod>2020-01-04T07:24:49.562Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://sdisk.github.io/tags/index.html</loc>
     
-    <lastmod>2020-01-01T11:00:11.097Z</lastmod>
+    <lastmod>2020-01-04T07:24:43.699Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sdisk.github.io/lambda%E7%AE%80%E4%BB%8B.html</loc>
+    
+    <lastmod>2020-01-04T07:16:28.325Z</lastmod>
     
   </url>
   
