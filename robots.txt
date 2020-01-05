@@ -3,6 +3,9 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /about/
+Allow: /tags/
+Allow: /contact/
+Allow: /musics/
 
 Disallow: /vendors/
 Disallow: /js/
@@ -10,3 +13,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+
+Sitemap: https://sdisk.github.io/sitemap.xml
+Sitemap: https://sdisk.github.io/baidusitemap.xml
